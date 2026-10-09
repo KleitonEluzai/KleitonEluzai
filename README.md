@@ -1,23 +1,34 @@
-# Olá, eu sou Kleiton Eluzai 👋
+### 👋 Olá, eu sou Kleiton Eluzai(Goncalves)
+fiz a alteração nos meus perfis sociais por causa de muitos (homônimos) pessoas com o mesmo nome que o meu, e acreditem diversos trabalham com tecnologia 😄,conheça um pouco sobre mim e agradeço sua visita.
 
-**Broadcast Operations | Especialista em Inteligência Artificial e Marketing Digital**
+🎓 **Técnico em Eletrônica Com Drt Radialista**
+🎓 **Técnico em Edição de Vídeos Com Drt Radialista**
+🎓 **Graduado em Análise e Desenvolvimento de Sistemas**
+📚 **Pós-graduado em Inteligência Artificial e Marketing Digital**
+💼 **12 anos de experiência em Operações de Broadcast**
 
-Formado em Análise e Desenvolvimento de Sistemas, com 12 anos de atuação na linha de frente em operações e infraestrutura de transmissão televisiva. Sou acostumado ao rigor, alta disponibilidade e à resiliência exigida em infraestruturas críticas de broadcast. 
+Atuo há mais de uma década na linha de frente em infraestruturas de transmissão televisiva, garantindo o rigor e a alta disponibilidade em ambientes críticos. 
 
-Com pós-graduações concluídas em Inteligência Artificial e Marketing Digital, meu foco atual é integrar engenharia de dados, automação e inteligência artificial generativa para modernizar processos de criação de conteúdo, design digital e gestão de dados em redes de televisão.
+Atualmente, minha jornada de aprendizado contínuo está focada em integrar **Inteligência Artificial, Automação e Dados** aos desafios do dia a dia. Gosto muito de solucionar problemas práticos e me adapto muito bem a novas exigências e tecnologias. 
 
-### 🛠️ Tecnologias & Ferramentas
+Para validar e fixar esses estudos, aplico o conhecimento adquirido diretamente na gestão do meu próprio e-commerce de produtos eletrônicos. Lá, coloco a mão na massa testando e analisando o comportamento de algoritmos de tráfego e conversão (Facebook, OLX e WhatsApp) as vezes me aventuro no Google trends.
 
-- **Inteligência Artificial:** Azure AI Foundry, Machine Learning, Grok, Kling AI, Luma Dream Machine, ElevenLabs e integrações com LLMs.
-- **Dados & BI:** SQL, arquitetura de dados (Microsoft Fabric / Azure) e desenvolvimento de Dashboards.
-- **Produção de Mídia & Design:** CapCut, InShot, Figma, estruturação de identidade visual e estratégias digitais.
+---
 
-### 🚀 Foco Atual e Projetos Destaque
+### 🛠️ Principais Competências
+* **🔹 Inteligência Artificial:** Machine Learning, Grok, Kling AI, Luma Dream Machine, ElevenLabs e ferramentas de IA Generativa.
+* **🔹 Dados & Nuvem:** SQL e fundamentos em arquitetura de dados (Microsoft Fabric / Azure).
+* **🔹 Produção de Mídia & Design:** CapCut, InShot, Figma, estruturação de identidade visual e estratégias digitais.
 
-- Desenvolvimento de Chatbots integrados a documentos via Azure AI Foundry.
-- Aplicação de modelos preditivos com Azure Machine Learning.
-- Automação de fluxos de trabalho (workflows) para vídeo e áudio utilizando IA generativa.
-- Prototipagem e design de interfaces focadas na experiência do usuário.
+### 📚 Certificações & Aperfeiçoamento Contínuo
+* **Inteligências Artificiais Generativas Aplicadas à Programação (ChatGPT)** – SENAI SP (48h)
 
-### 📫 Vamos nos conectar
-- [LinkedIn](https://www.linkedin.com/in/kleiton-eluzai)
+* **Artificial Intelligence Fundamentals** – IBM SkillsBuild
+
+* **Santander - Excel com Inteligência Artificial** – DIO
+* **Marketing Digital com IA** – Bootcamp Santander / DIO *(Na reta final)*
+
+### 🚀 Foco Atual
+* **Aceleração AI 103** – DIO (Digital Innovation One) 
+
+Visite meu LinkedIn @kleitoneluzai
