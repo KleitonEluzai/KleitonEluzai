@@ -1,10 +1,14 @@
 ### 👋 Olá, eu sou Kleiton Eluzai(Goncalves)
-fiz a alteração nos meus perfis sociais por causa de muitos (homônimos) pessoas com o mesmo nome que o meu, e acreditem diversos trabalham com tecnologia 😄,conheça um pouco sobre mim e agradeço sua visita.
+Fiz a alteração nos meus perfis sociais por causa de muitos (homônimos) pessoas com o mesmo nome que o meu, e acreditem diversos trabalham com tecnologia 😄,conheça um pouco sobre mim e agradeço sua visita.
 
 🎓 **Técnico em Eletrônica Com Drt Radialista**
+
 🎓 **Técnico em Edição de Vídeos Com Drt Radialista**
+
 🎓 **Graduado em Análise e Desenvolvimento de Sistemas**
+
 📚 **Pós-graduado em Inteligência Artificial e Marketing Digital**
+
 💼 **12 anos de experiência em Operações de Broadcast**
 
 Atuo há mais de uma década na linha de frente em infraestruturas de transmissão televisiva, garantindo o rigor e a alta disponibilidade em ambientes críticos. 
